@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="feed">feed</string>
+    <string name="home">home</string>
+    <string name="notification">Notification</string>
+    <style name="Theme.Studmin" parent="Theme.Material3.Dark">
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/eerie_black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/cyan_blue</item>
+        <item name="colorSecondaryVariant">@color/blue_green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/black</item>
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+        
+        <item name="android:colorBackground">@color/black</item>
+        <item name="colorOnBackground">@color/white</item>
+        
+        <item name="android:navigationBarColor">@color/eerie_black</item>
+        
+        <item name="colorSurface">@color/black</item>
+        
+        <item name="colorOnSurface">@color/light_grey</item>
+        
+        <item name="colorSecondaryContainer">@color/start_command_blue</item>
+        
+        <item name="colorOnSurfaceVariant">@color/gainsboro</item>
+        
+        <item name="colorOnSecondaryContainer">@color/light_grey</item>
+
+
+
+
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="carnelian">#BA181B</color>
+
+    <color name="start_command_blue">#0077B6</color>
+    <color name="blue_green">#0096C7</color>
+    <color name="pacific_blue">#00B4D8</color>
+    <color name="cyan_blue">#01BAEF</color>
+    <color name="cyan_process">#00BBEF</color>
+    <color name="blue_jeans">#40AAE8</color>
+
+    <color name="black">#000000</color>
+    <color name="eerie_black">#212529</color>
+    <color name="rich_black">#00171F</color>
+    <color name="onyx">#343A40</color>
+
+    <color name="light_grey">#CED4DA</color>
+    <color name="gainsboro">#DEE2E6</color>
+    <color name="dark_cultured">#E9ECEF</color>
+    <color name="light_cultured">#F8F9FA</color>
+    <color name="white">#FFFFFF</color>
+</resources>

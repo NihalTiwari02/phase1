@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Studmin" parent="Theme.Material3.Dark">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/eerie_black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/cyan_blue</item>
+        <item name="colorSecondaryVariant">@color/blue_green</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/black</item>
+        <!--items On status bar -->
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <!-- background -->
+        <item name="android:colorBackground">@color/black</item>
+        <item name="colorOnBackground">@color/white</item>
+        <!-- navigation bar -->
+        <item name="android:navigationBarColor">@color/eerie_black</item>
+        <!-- action bar and bottom bar-->
+        <item name="colorSurface">@color/black</item>
+        <!-- text color action and bottom bar-->
+        <item name="colorOnSurface">@color/light_grey</item>
+        <!--  active icon container bottom bar -->
+        <item name="colorSecondaryContainer">@color/start_command_blue</item>
+        <!-- unActive icon bottom bar-->
+        <item name="colorOnSurfaceVariant">@color/gainsboro</item>
+        <!-- active icon bottom bar -->
+        <item name="colorOnSecondaryContainer">@color/light_grey</item>
+
+
+
+
+    </style>
+</resources>

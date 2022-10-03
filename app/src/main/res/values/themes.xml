@@ -2,13 +2,13 @@
     <!-- Base application theme. -->
     <style name="Theme.Studmin" parent="Theme.Material3.Light">
         <!-- Primary brand color -->
-        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimary">@color/cyan_blue</item>
         <item name="colorPrimaryVariant">@color/gainsboro</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color -->
         <item name="colorSecondary">@color/cyan_blue</item>
-        <item name="colorSecondaryVariant">@color/blue_green</item>
-        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@color/dark_cultured</item>
+        <item name="colorOnSecondary">@color/gainsboro</item>
         <!-- Status bar color -->
         <item name="android:statusBarColor">@color/white</item>
         <!--items On status bar -->
@@ -21,7 +21,7 @@
         <!-- action bar and bottom bar-->
         <item name="colorSurface">@color/white</item>
         <!-- text color bottom bar-->
-        <item name="colorOnSurface">@color/eerie_black</item>
+        <item name="colorOnSurface">@color/button_text</item>
         <!--  active icon container bottom bar -->
         <item name="colorSecondaryContainer">@color/cyan_blue</item>
         <!-- unActive icon bottom bar-->
